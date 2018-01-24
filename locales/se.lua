@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['se'] = {
 
 	['by_default'] = 'default',
 	['installed'] = 'installerad',
